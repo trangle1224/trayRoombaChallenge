@@ -1,6 +1,6 @@
 # trayRoombaChallenge
 
-input.txt is the input text file
+input.txt is the input text file (contains my most recent test case)
 
 Open Terminal 
 
